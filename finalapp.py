@@ -75,7 +75,7 @@ def option1():
 
     # Function to execute Docker commands using the CGI script
     def execute_docker_command(command):
-        cgi_url = "http://65.0.76.20/cgi-bin/docker_cg1.py"
+        cgi_url = "Your python cgi API"
         response = requests.post(cgi_url, data={"command": command})
         return response.text
 
@@ -119,7 +119,7 @@ def option1():
 def option2():
     # Function to execute Linux commands using the CGI script
     def execute_linux_command(command):
-        cgi_url = "http://65.0.76.20/cgi-bin/linux.py"
+        cgi_url = "Your python cgi API"
         response = requests.post(cgi_url, data={"command": command})
         return response.text
 
@@ -148,7 +148,7 @@ def option2():
 def option3():
 
 
-    openai.api_key = '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'
+    openai.api_key = 'your open api key'
 
     # Function to generate response using the GPT model
     def generate_response(prompt):
