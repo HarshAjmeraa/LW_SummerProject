@@ -30,5 +30,5 @@ Send SMS through Twilio.
 Send emails through Gmail.
 <h2>Neural Network with Gesture Recognition:</h2>
 Real-time gesture recognition.
-
+<br>
 These modules collectively form a comprehensive set of features, covering Docker management, Linux commands, natural language interaction, machine learning, scripting, and communication services. Each module is designed to be modular, allowing for flexibility and extensibility in the application.
