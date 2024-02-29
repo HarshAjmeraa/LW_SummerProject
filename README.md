@@ -1,4 +1,7 @@
-<h1>Functions/Modules Overview</h1>
+<h1>Overview</h1>
+These modules collectively form a comprehensive set of features, covering Docker management, Linux commands, natural language interaction, machine learning, scripting, and communication services. Each module is designed to be modular, allowing for flexibility and extensibility in the application.
+
+<h2>Functions/Modules Overview</h2>
 
 <h2>Docker Administration:</h2>
 
@@ -37,5 +40,4 @@ Real-time gesture recognition.
 ![Screenshot (60)](https://github.com/HarshAjmeraa/LW_SummerProject/assets/106424980/0f153ec0-ac21-4cfd-a246-7712f9d90119)
 ![Screenshot (61)](https://github.com/HarshAjmeraa/LW_SummerProject/assets/106424980/e0b7859c-d2e2-41f5-8096-769d2244b816)
 
-<h2>Conclusion</h2>
-These modules collectively form a comprehensive set of features, covering Docker management, Linux commands, natural language interaction, machine learning, scripting, and communication services. Each module is designed to be modular, allowing for flexibility and extensibility in the application.
+
