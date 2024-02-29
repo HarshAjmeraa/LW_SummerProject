@@ -13,15 +13,15 @@ Custom command execution through a CGI script.
 
 Utilizes the ChatGPT API for natural language interaction.
 Engages in conversations and provides responses.
-Automated Machine Learning (AutoML):
+<h2>Automated Machine Learning (AutoML):</h2>
 
 Configurable Convolutional Neural Network (CNN) model.
 Adjustable parameters include the number of convolutional layers, kernel size, pooling size, connected layers, and number of classes.
-Python Interpreter:
+<h2>Python Interpreter:</h2>
 
 Execute Python code snippets.
 Display the output.
-Communication Services:
+<h2>Communication Services:</h2>
 
 Send WhatsApp messages instantly.
 Convert text to speech.
